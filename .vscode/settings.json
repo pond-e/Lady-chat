@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/b32b71b2-6929-486d-ac6b-361591d47967/microsoft.web/sites/subscriptions/b32b71b2-6929-486d-ac6b-361591d47967/resourceGroups/Lady-chat_group/providers/Microsoft.Web/sites/Lady-chat",
+    "appService.deploySubpath": "."
+}
